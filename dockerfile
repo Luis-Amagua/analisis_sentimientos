@@ -15,4 +15,4 @@ WORKDIR /app
 EXPOSE 5000
 
 # Comando para correr tu aplicación
-CMD ["python", "app.py"]
+CMD ["modelizacion", "app.py"]
